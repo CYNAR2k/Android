@@ -1,5 +1,5 @@
 # Android
-My personal notes &amp; stuff about androids
+My personal notes &amp; stuff about android.
 
 - [Xiaomi Wiki](https://xiaomiwiki.github.io/)
 
