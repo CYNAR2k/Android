@@ -11,3 +11,9 @@ My personal notes &amp; stuff about androids
 - [How to debloat](https://github.com/0x192/universal-android-debloater)
 
 - [How to debloat v2](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
+
+- [Xiaomi Wiki](https://xiaomiwiki.github.io/)
+
+- [Xiaomi Stock ROM/Firmware](https://xiaomifirmwareupdater.com/about/)
+
+
