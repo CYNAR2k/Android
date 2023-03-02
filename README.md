@@ -19,6 +19,8 @@ My personal notes &amp; stuff about android.
 
 - [How to check Running Services on MIUI](https://forum.xda-developers.com/t/there-is-a-way-to-check-running-services-and-cached-processes.4354501/post-87751199)
 
+- [How to clean flash a custom ROM](https://forum.xda-developers.com/t/guide-flash-crdroid-9-a13-hide-root-zygisk-pass-safetynet-hma.4539481/)
+
 - [Google Camera](https://www.celsoazevedo.com/files/android/google-camera/)
 
 - [Google Apps for Vanilla Custom ROMS](https://nikgapps.com/downloads)
