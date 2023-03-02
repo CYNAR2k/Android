@@ -7,3 +7,7 @@ My personal notes &amp; stuff about androids
 - [How to Install adb drivers](https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/)
 
 - [How to Install adb drivers v2](https://github.com/0x192/universal-android-debloater#how-to-use-it)
+
+- [How to debloat](https://github.com/0x192/universal-android-debloater)
+
+- [How to debloat v2](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/)
