@@ -16,4 +16,6 @@ My personal notes &amp; stuff about androids
 
 - [Xiaomi Stock ROM/Firmware](https://xiaomifirmwareupdater.com/about/)
 
+- [How to check Running Services on MIUI](https://forum.xda-developers.com/t/there-is-a-way-to-check-running-services-and-cached-processes.4354501/post-87751199)
+
 
