@@ -106,6 +106,12 @@ de.telekom.tsc
 org.ifaa.aidl.manager
 org.mipay.android.manager
 
+## Risky Uninstall that might lead to bootloop. I didn't had bootloop and I uninstalled & rebooted these in the following order.
+
+1st - com.miui.securityadd
+2nd - com.miui.securitycenter & com.miui.securitycore
+3rd - com.xiaomi.finddevice
+
 ## Disable
 
 com.google.android.syncadapters.contacts
