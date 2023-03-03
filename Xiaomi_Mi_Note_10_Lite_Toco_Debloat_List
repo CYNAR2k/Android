@@ -2,6 +2,13 @@ Xiaomi Mi Note 10 Lite (toco)
 Firmware: EEA V13.0.6.0.SFNEUXM
 MIUI Optimizations OFF!
 
+## Tips!
+
+- If you uninstall the security app you won't be able to see battery stats, it's fine because xiaomi battery stats are shit anyways. Replace it with battery Guru Stats from PlayStore.
+If you going to use Guru Battery Stats and want to give all permissions you need a Mi account connected so you can toggle on USB debugging (Security Settings) in developer options!
+
+
+
 ## Uninstalled 
 
 com.lbe.security.miui
