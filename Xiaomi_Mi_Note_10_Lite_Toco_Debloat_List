@@ -21,9 +21,9 @@ in developer options!
 
 
 You can replace most of the applications with apps from Playstore or F-droid.
-For Gallery i use https://f-droid.org/packages/com.simplemobiletools.gallery.pro/
-For file manager i use https://play.google.com/store/apps/details?id=com.marc.files&gl=US that is basically a shortcut apk to open the legacy file manager.
-If you want to see all settings options you can use https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker&gl=US i use this one to see
+1. For Gallery i use https://f-droid.org/packages/com.simplemobiletools.gallery.pro/
+2. For file manager i use https://play.google.com/store/apps/details?id=com.marc.files&gl=US that is basically a shortcut apk to open the legacy file manager.
+3. If you want to see all settings options you can use https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker&gl=US i use this one to see
 services running in the background mostly. Here's a link how you can create a shortcut for such thing: https://forum.xda-developers.com/t/there-is-a-way-to-check-running-services-and-cached-processes.4354501/post-87751199
 
 
