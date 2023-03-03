@@ -4,9 +4,19 @@ MIUI Optimizations OFF!
 
 ## Tips!
 
+I recommend you to disable MIUI optimizations. How?
+1. Open settings & open "About Phone"
+2. Tap Spam the "MIUI Version"
+3. Go back to settings, scroll down to "Additional settings" and open developer options
+4. On developer options scroll all way down to the bottom. Now spam the "Reset to default values" option and you will see MIUI optimizations appear by magic.
+5. Turn it off & reboot your phone!
+
+
+
 If you uninstall the security app you won't be able to see battery stats, it's fine because xiaomi battery stats are shit anyways. 
 Replace it with battery Guru Stats from PlayStore.
-If you going to use Guru Battery Stats and want to give all permissions you need a Mi account connected so you can toggle on USB debugging (Security Settings) in developer options!
+If you going to use Guru Battery Stats and want to give all permissions you need a Mi account connected so you can toggle on USB debugging (Security Settings) 
+in developer options!
 
 
 
