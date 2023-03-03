@@ -17,6 +17,9 @@ If you uninstall the security app you won't be able to see battery stats, it's f
 Replace it with battery Guru Stats from PlayStore.
 If you going to use Guru Battery Stats and want to give all permissions you need a Mi account connected so you can toggle on USB debugging (Security Settings) 
 in developer options!
+If you need to restrict Wi-Fi/Data Mobile & Background data (Enable usage of mobile data in the background) from an application you have to do it before you
+uninstall the Security App. The settings will apply and kept even when you uninstall security app. Do this if you don't want to use a 3rd app software like
+a firewall for such action.
 
 
 
