@@ -12,8 +12,11 @@ If you going to use Guru Battery Stats and want to give all permissions you need
 ## Uninstalled 
 
 com.lbe.security.miui
+
 com.android.bluetoothmidiservice
+
 com.android.calllogbackup
+
 com.android.chrome
 com.android.dreams.phototable
 com.android.egg
