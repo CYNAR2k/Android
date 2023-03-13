@@ -45,6 +45,7 @@ com.android.providers.partnerbookmarks
 com.android.soundrecorder
 com.android.thememanager
 com.android.traceur
+com.android.settings.intelligence 
 com.bsp.catchlog
 com.facebook.appmanager
 com.facebook.services
@@ -87,7 +88,7 @@ com.miui.cloudbackup
 com.miui.cloudservice
 com.miui.cloudservice.sysbase
 com.miui.compass
-com.miui.core #Breaks search in settings
+com.miui.core #Breaks search in settings. It will crash Settings if you try to search anything on the search bar.
 com.miui.daemon
 com.miui.face
 com.miui.fmservice
