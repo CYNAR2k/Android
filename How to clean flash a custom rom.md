@@ -1,4 +1,4 @@
-# How to clean flash a custom rom
+# How to clean flash a custom rom - Xiaomi
 
 ## Drivers
 
