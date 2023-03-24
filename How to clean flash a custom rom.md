@@ -1,5 +1,5 @@
 # How to clean flash a custom rom
-*Take in mind i wrote this for my xiaomi mi note 10 lite, others xiaomis have different ways of doing stuff, you should read guides in XDA forums for your specific device.*
+*Take in mind i wrote this for my xiaomi mi note 10 lite, others xiaomis have different ways of doing stuff, you should read guides in XDA forums for your specific device. Most of stuff should work but I know that when flashing recovery's for some phones it's different.*
 
 ## Drivers
 
